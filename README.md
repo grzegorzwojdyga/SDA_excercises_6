@@ -1,1 +1,3 @@
-# SDA_excercises_6
+# SDA cwiczenia 6
+
+Kolejnosc wykonywania dowolna :)
